@@ -4,7 +4,7 @@ Sanju Kanumuri (sanju)
 Hafsa Khan(hfsakhn) 
 Raghav Pajjur (rpajjur)
 
-# Pros of Software Engineering with ChatGPT:
+### Pros of Software Engineering with ChatGPT:
 1. **Rapid Problem Solving:** Offers instant help with coding queries and debugging.
 2. **Educational Tool:** Provides explanations and guidance on various programming topics.
 3. **Code Generation:** Can create code snippets and examples for quick reference.
