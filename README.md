@@ -1,6 +1,6 @@
 # final-workshop-activivty
-We generated a stand up bot using chatgpt. 
-Sanju Kanumuri (sanju) 
+/nWe generated a stand up bot using chatgpt. 
+/nSanju Kanumuri (sanju) 
 Hafsa Khan(hfsakhn) 
 Raghav Pajjur (rpajjur)
 
