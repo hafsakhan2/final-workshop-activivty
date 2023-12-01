@@ -1,1 +1,8 @@
+Team Members:
+Pranav Poodari(pranavp1551)
+Matthew Padath(mpadath)
+Manas Kethireddy (manask101)
 
+For a basic standup bot, the code is doing enough to create meetings between multiple people.
+The code could improve by potentially being able to manage more than one meeting at a time and
+a way to display what meetings are currently going on.
